@@ -60,6 +60,7 @@ public class PraticaDois {
 
         System.out.println(" o valor de 3 dolares em reias ficou em : " + (valorEmDolares *(reais= 3))+ " reais.");
 
+        System.out.println("teste on ");
 
 
 

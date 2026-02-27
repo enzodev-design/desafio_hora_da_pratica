@@ -31,7 +31,7 @@ public class PraticaUm {
 
         System.out.println( "meu nome e " + nome + " minha idae e " + idade + " o numero da minha casa e " + numeroDois );
 
-
+        System.out.println("teste");
     }
 }
 
